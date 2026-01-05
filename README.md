@@ -64,4 +64,4 @@ Screenshots of compilation, deployment, and output are included in the `screensh
 ✅ Completed
 
 ## Author
-Subhadip Mahanty                 screenshots/compile.png
+Subhadip Mahanty   
