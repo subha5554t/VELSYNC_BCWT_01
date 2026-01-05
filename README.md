@@ -65,3 +65,4 @@ Screenshots of compilation, deployment, and output are included in the `screensh
 
 ## Author
 Subhadip Mahanty   
+<img width="1912" height="936" alt="image" src="https://github.com/user-attachments/assets/c70ef92f-2e0c-4180-b4a8-dd05e918ddbb" />
